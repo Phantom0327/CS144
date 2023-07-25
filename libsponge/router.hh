@@ -1,8 +1,6 @@
 #ifndef SPONGE_LIBSPONGE_ROUTER_HH
 #define SPONGE_LIBSPONGE_ROUTER_HH
-
 #include "network_interface.hh"
-
 #include <optional>
 #include <queue>
 
